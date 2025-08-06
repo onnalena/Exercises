@@ -1,0 +1,39 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.myfirstclassproject.exceptions;
+
+/**
+ *
+ * @author Studio20-26
+ */
+public class Book {
+    private String title;
+    private String author;
+    
+    public Book(String title, String author){
+        this.title = title;
+        this.author = author;
+    }
+    
+    public void setTitle(String title){
+        this.title = title;
+    }
+    
+    public void setAuthor(String author){
+        this.author = author;
+    }
+    
+    public String getTitle(){
+        return this.title;
+    }
+    
+    public String getAuthor(){
+        return this.author;
+    }
+    
+    public String toString(){
+        return String.format("Title: %s\nAuthor: %s\n", this.title, this.author);
+    }
+}
