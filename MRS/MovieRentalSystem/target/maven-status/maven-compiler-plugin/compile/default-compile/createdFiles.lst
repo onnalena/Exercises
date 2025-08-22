@@ -1,0 +1,9 @@
+com\myfirstclassproject\movierentalsystem\model\Movie.class
+com\myfirstclassproject\movierentalsystem\model\CustomerRental$1.class
+com\myfirstclassproject\movierentalsystem\enums\RentalPeriod.class
+com\myfirstclassproject\movierentalsystem\enums\RentalStatus.class
+com\myfirstclassproject\movierentalsystem\model\Customer.class
+com\myfirstclassproject\movierentalsystem\model\CustomerRental.class
+com\myfirstclassproject\movierentalsystem\enums\Genre.class
+com\myfirstclassproject\movierentalsystem\enums\AgeRestriction.class
+com\myfirstclassproject\movierentalsystem\model\MovieInventory.class
